@@ -7,5 +7,6 @@
     "editor.codeActionsOnSave": {
         "source.fixAll.eslint": true
     },
-    "python.pythonPath": "C:/Users/raull/.virtualenvs/images-gallery-uUMUMJ1v/Scripts/python.exe"
+    "python.pythonPath": "C:/Users/raull/.virtualenvs/images-gallery-uUMUMJ1v/Scripts/python.exe",
+    "python.analysis.typeCheckingMode": "basic"
 }
